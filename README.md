@@ -4,7 +4,7 @@
   3D Graphics and Design Guide
 </h1>
 
-#### A guide covering 3D Graphics and Design including the applications, libraries and tools that will make you a better and more efficient designer of 3D graphics.
+#### A guide covering 3D Graphics and Design including the applications, libraries and tools that will make you a better and more efficient Graphics Designer.
 
 ## Resources
 
