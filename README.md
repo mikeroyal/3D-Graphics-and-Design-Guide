@@ -6,7 +6,9 @@
 
 #### A guide covering 3D Graphics and Design including the applications, libraries and tools that will make you a better and more efficient Graphics Designer.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+# 3D Graphics and Design Learning Resources
 
 [Introduction to Pixar's Universal Scene Description (USD)](https://graphics.pixar.com/usd/docs/index.html)
 
@@ -47,7 +49,7 @@
 [Canva MasterClass: Design For EveryDay Use from Udemy](https://www.udemy.com/course/canva-masterclass-design-for-everyday-use/)
 
 
-## Tools
+# 3D Graphics and Design Tools
 
 [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) is a collection of 20+ desktop and mobile apps(Lightroom, Photoshop, Illustrator, InDesign, Rush, Etc.) and services for photography, design, video, web, UX, and more.
 
@@ -114,3 +116,13 @@
 [Goxel](https://github.com/guillaumechereau/goxel) is a free and Open Source 3D Voxel Editor.
 
 [Sketchfab](https://sketchfab.com/tags/open-source) gives you open-source 3D models ready to view, buy, and download for free.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/3D-Graphics-and-Design-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
