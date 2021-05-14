@@ -7,6 +7,27 @@
 #### A guide covering 3D Graphics and Design including the applications, libraries and tools that will make you a better and more efficient Graphics Designer.
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118338215-6ec91f00-b4ca-11eb-9c9e-f5cf377ca3c4.png">
+  <br />
+</p>
+
+ **Blender's Cycles Render Engine. Source: [Blender](https://www.blender.org)**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118338217-6ffa4c00-b4ca-11eb-92d0-9aa30230495d.png">
+  <br />
+</p>
+
+ **Blender VFX(Visual Effects). Source: [Blender](https://www.blender.org)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118338223-72f53c80-b4ca-11eb-8100-2e2abd98c910.png">
+  <br />
+</p>
+
+**Designing a simple UI/UX for an application in Adobe XD. Source: [Adobe](https://www.adobe.com/products/xd.html)**
 
 # 3D Graphics and Design Learning Resources
 
